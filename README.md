@@ -1,12 +1,10 @@
 # Anastasia Kozlova | Backend Developer | Python Developer
 
----
 
 ## About me 
 
 Backend developer specializing in Python with experience in building web applications and services. I am proficient in modern frameworks and tools, have hands-on experience with databases, message brokers, and containerization. I have contributed to a commercial project for an online school by extending its functionality, and have independently developed several full-fledged pet projects. I am focused on professional growth in backend development, learning industry best practices, and working within a team.
 
----
 
 ## Core Competencies
 
